@@ -1,4 +1,4 @@
-import ListPosts from "../components/ListPöst"
+import ListPosts from "../components/ListPost"
 import ListCategories from "../components/ListCategories"
 
 const Home = () => {
